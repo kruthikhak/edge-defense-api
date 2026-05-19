@@ -1,0 +1,414 @@
+flow_index,label,prediction,probability,inference_ms,top_shap_feature
+0,BENIGN,0,0.00035,1.01,act_data_pkt_fwd
+1,BENIGN,0,0.00035,1.314,act_data_pkt_fwd
+2,BENIGN,0,0.00035,1.38,act_data_pkt_fwd
+3,BENIGN,0,0.016159,1.778,act_data_pkt_fwd
+4,BENIGN,0,8e-06,1.229,Flow IAT Max
+5,BENIGN,0,8e-06,0.907,Flow IAT Max
+6,BENIGN,0,6e-06,0.96,Flow IAT Max
+7,BENIGN,0,8e-06,0.841,Flow IAT Max
+8,BENIGN,0,5e-06,0.891,min_seg_size_forward
+9,BENIGN,0,8e-06,0.942,Flow IAT Max
+10,BENIGN,0,0.005842,1.309,Bwd Header Length
+11,BENIGN,0,0.002886,1.71,act_data_pkt_fwd
+12,BENIGN,0,6e-06,0.91,Flow IAT Max
+13,BENIGN,0,0.014625,0.852,act_data_pkt_fwd
+14,BENIGN,0,0.007934,0.853,act_data_pkt_fwd
+15,BENIGN,0,0.005842,0.877,Bwd Header Length
+16,BENIGN,0,5e-06,0.8,min_seg_size_forward
+17,BENIGN,0,4.3e-05,0.945,min_seg_size_forward
+18,BENIGN,0,0.003489,0.988,act_data_pkt_fwd
+19,BENIGN,0,5e-06,1.008,Flow IAT Max
+20,BENIGN,0,0.002797,1.332,act_data_pkt_fwd
+21,BENIGN,0,8e-06,1.033,Flow IAT Max
+22,BENIGN,0,0.005842,0.988,Bwd Header Length
+23,BENIGN,0,4e-06,1.579,Flow IAT Max
+24,BENIGN,0,0.000112,0.983,Bwd Packet Length Min
+25,BENIGN,0,0.005842,0.961,Bwd Header Length
+26,BENIGN,0,0.000141,1.097,act_data_pkt_fwd
+27,BENIGN,0,0.004749,1.313,act_data_pkt_fwd
+28,BENIGN,0,0.001816,2.444,Flow IAT Max
+29,BENIGN,0,0.002063,1.02,Flow IAT Max
+30,BENIGN,0,0.004237,1.209,Bwd Header Length
+31,BENIGN,0,0.004237,1.034,Bwd Header Length
+32,BENIGN,0,0.00019,0.941,min_seg_size_forward
+33,BENIGN,0,0.008064,0.832,Flow IAT Max
+34,BENIGN,0,6e-06,1.061,Flow IAT Max
+35,BENIGN,0,0.000108,1.607,act_data_pkt_fwd
+36,BENIGN,0,0.008064,2.525,Flow IAT Max
+37,BENIGN,0,0.008064,1.086,Flow IAT Max
+38,BENIGN,0,0.002355,1.211,Flow IAT Max
+39,BENIGN,0,0.00042,0.959,Flow IAT Max
+40,BENIGN,0,0.000141,0.932,act_data_pkt_fwd
+41,BENIGN,0,3.8e-05,0.847,Flow IAT Max
+42,BENIGN,0,0.000639,1.007,Bwd Packet Length Min
+43,BENIGN,0,3.6e-05,1.256,act_data_pkt_fwd
+44,BENIGN,0,6e-06,1.76,act_data_pkt_fwd
+45,BENIGN,0,0.000607,0.946,act_data_pkt_fwd
+46,BENIGN,0,0.029569,1.174,min_seg_size_forward
+47,BENIGN,0,0.001112,1.074,act_data_pkt_fwd
+48,BENIGN,0,7e-06,0.956,act_data_pkt_fwd
+49,BENIGN,0,0.000662,0.951,act_data_pkt_fwd
+50,BENIGN,0,7e-05,1.325,act_data_pkt_fwd
+51,BENIGN,0,0.005879,1.635,Bwd Packet Length Min
+52,BENIGN,0,6e-06,2.098,Flow IAT Max
+53,BENIGN,0,0.00016,1.724,Flow IAT Max
+54,BENIGN,0,0.000639,0.999,Bwd Packet Length Min
+55,BENIGN,0,7e-06,0.997,act_data_pkt_fwd
+56,BENIGN,0,0.00042,0.891,Flow IAT Max
+57,BENIGN,0,0.001741,0.901,Flow IAT Max
+58,BENIGN,0,0.00016,0.968,Flow IAT Max
+59,BENIGN,0,0.00016,1.164,Flow IAT Max
+60,BENIGN,0,0.005842,1.788,Bwd Header Length
+61,BENIGN,0,3.8e-05,1.879,Flow IAT Max
+62,BENIGN,0,0.029569,1.057,min_seg_size_forward
+63,BENIGN,0,6e-06,0.923,act_data_pkt_fwd
+64,BENIGN,0,0.230922,1.098,min_seg_size_forward
+65,BENIGN,0,0.000639,0.901,Bwd Packet Length Min
+66,BENIGN,0,0.005842,0.865,Bwd Header Length
+67,BENIGN,0,0.00042,1.115,Flow IAT Max
+68,BENIGN,0,0.230922,1.413,min_seg_size_forward
+69,BENIGN,0,0.029569,1.671,min_seg_size_forward
+70,BENIGN,0,6e-06,0.907,Flow IAT Max
+71,BENIGN,0,0.004237,1.013,Bwd Header Length
+72,BENIGN,0,0.001183,0.877,min_seg_size_forward
+73,BENIGN,0,0.005842,0.744,Bwd Header Length
+74,BENIGN,0,6e-06,0.759,act_data_pkt_fwd
+75,BENIGN,0,9e-06,0.992,act_data_pkt_fwd
+76,BENIGN,0,7e-06,1.21,Flow IAT Max
+77,BENIGN,0,5e-06,1.995,min_seg_size_forward
+78,BENIGN,0,0.005842,0.903,Bwd Header Length
+79,BENIGN,0,0.005908,0.85,Flow IAT Max
+80,BENIGN,0,0.000667,0.835,Fwd Header Length
+81,BENIGN,0,0.000723,0.799,PSH Flag Count
+82,BENIGN,0,0.004718,0.8,min_seg_size_forward
+83,BENIGN,0,0.010366,2.137,min_seg_size_forward
+84,BENIGN,0,0.221086,3.256,min_seg_size_forward
+85,BENIGN,0,0.010366,1.235,min_seg_size_forward
+86,BENIGN,0,0.005842,1.177,Bwd Header Length
+87,BENIGN,0,0.010366,1.168,min_seg_size_forward
+88,BENIGN,0,0.000133,1.016,act_data_pkt_fwd
+89,BENIGN,0,0.000661,0.888,min_seg_size_forward
+90,BENIGN,0,0.002797,0.801,act_data_pkt_fwd
+91,BENIGN,0,7e-06,0.996,Flow IAT Max
+92,BENIGN,0,6e-06,1.58,Flow IAT Max
+93,BENIGN,0,0.005842,1.586,Bwd Header Length
+94,BENIGN,0,0.005842,1.064,Bwd Header Length
+95,BENIGN,0,0.005879,1.051,Bwd Packet Length Min
+96,BENIGN,0,7e-06,1.008,Flow IAT Max
+97,BENIGN,0,1e-05,0.967,Flow IAT Max
+98,BENIGN,0,8e-06,1.262,Flow IAT Max
+99,BENIGN,0,0.005842,1.272,Bwd Header Length
+100,BENIGN,0,8e-06,1.285,Flow IAT Max
+101,BENIGN,0,8.5e-05,1.237,act_data_pkt_fwd
+102,BENIGN,0,4.8e-05,1.214,Flow IAT Max
+103,BENIGN,0,0.005842,1.111,Bwd Header Length
+104,BENIGN,0,6e-06,1.068,act_data_pkt_fwd
+105,BENIGN,0,0.001207,0.988,PSH Flag Count
+106,BENIGN,0,6e-06,1.031,Flow IAT Max
+107,BENIGN,0,6e-06,1.05,Flow IAT Max
+108,BENIGN,0,7e-06,1.62,Flow IAT Max
+109,BENIGN,0,8e-06,1.827,Flow IAT Max
+110,BENIGN,0,0.005842,1.125,Bwd Header Length
+111,BENIGN,0,8e-06,1.408,Flow IAT Max
+112,BENIGN,0,8e-06,1.034,Flow IAT Max
+113,BENIGN,0,0.005842,1.06,Bwd Header Length
+114,BENIGN,0,9e-06,0.915,Flow IAT Max
+115,BENIGN,0,8e-06,1.043,Flow IAT Max
+116,BENIGN,0,3.2e-05,1.382,min_seg_size_forward
+117,BENIGN,0,6e-06,1.754,Flow IAT Max
+118,BENIGN,0,7e-06,0.908,Flow IAT Max
+119,BENIGN,0,5e-06,1.012,min_seg_size_forward
+120,BENIGN,0,9e-06,0.983,act_data_pkt_fwd
+121,BENIGN,0,0.005842,1.178,Bwd Header Length
+122,BENIGN,0,7e-06,1.068,Flow IAT Max
+123,BENIGN,0,8e-06,1.18,Flow IAT Max
+124,BENIGN,0,8e-06,1.446,Flow IAT Max
+125,BENIGN,0,0.005842,2.926,Bwd Header Length
+126,BENIGN,0,2.6e-05,1.1,Flow IAT Max
+127,BENIGN,0,7e-06,0.992,Flow IAT Max
+128,BENIGN,0,6e-06,1.009,Flow IAT Max
+129,BENIGN,0,9e-06,0.978,Flow IAT Max
+130,BENIGN,0,8e-06,0.878,Flow IAT Max
+131,BENIGN,0,0.005842,0.974,Bwd Header Length
+132,BENIGN,0,8e-06,1.243,Flow IAT Max
+133,BENIGN,0,0.005842,3.327,Bwd Header Length
+134,BENIGN,0,6e-06,1.407,Flow IAT Max
+135,BENIGN,0,8e-06,1.108,Flow IAT Max
+136,BENIGN,0,7e-05,1.1,Bwd Packet Length Max
+137,BENIGN,0,0.00023,1.521,Flow IAT Max
+138,BENIGN,0,4.9e-05,0.998,act_data_pkt_fwd
+139,BENIGN,0,6e-06,1.304,act_data_pkt_fwd
+140,BENIGN,0,9e-06,1.569,Flow IAT Max
+141,BENIGN,0,7e-06,1.603,Flow IAT Max
+142,BENIGN,0,6e-06,1.883,Flow IAT Max
+143,BENIGN,0,3.8e-05,1.121,Flow IAT Max
+144,BENIGN,0,0.005842,1.013,Bwd Header Length
+145,BENIGN,0,9e-06,1.218,Flow IAT Max
+146,BENIGN,0,8.8e-05,0.939,act_data_pkt_fwd
+147,BENIGN,0,6e-06,1.232,Flow IAT Max
+148,BENIGN,0,7e-06,1.358,Flow IAT Max
+149,BENIGN,0,9e-06,1.643,act_data_pkt_fwd
+150,BENIGN,0,5e-06,2.007,min_seg_size_forward
+151,BENIGN,0,1e-05,1.121,Flow IAT Max
+152,BENIGN,0,7e-06,1.132,Flow IAT Max
+153,BENIGN,0,1e-05,1.003,Flow IAT Max
+154,BENIGN,0,2.6e-05,1.012,Flow IAT Max
+155,BENIGN,0,7e-06,0.853,Flow IAT Max
+156,BENIGN,0,6e-06,1.375,Flow IAT Max
+157,BENIGN,0,3.6e-05,1.576,min_seg_size_forward
+158,BENIGN,0,5e-06,1.996,Flow IAT Max
+159,BENIGN,0,0.000723,0.98,PSH Flag Count
+160,BENIGN,0,0.00372,0.98,Bwd Header Length
+161,BENIGN,0,0.005879,0.986,Bwd Packet Length Min
+162,BENIGN,0,1e-05,1.182,Flow IAT Max
+163,BENIGN,0,6e-06,0.857,Flow IAT Max
+164,BENIGN,0,3.8e-05,1.159,Flow IAT Max
+165,BENIGN,0,0.005842,1.81,Bwd Header Length
+166,BENIGN,0,3.8e-05,2.176,Flow IAT Max
+167,BENIGN,0,0.005842,1.095,Bwd Header Length
+168,BENIGN,0,9.9e-05,1.032,act_data_pkt_fwd
+169,BENIGN,0,7e-06,1.058,act_data_pkt_fwd
+170,BENIGN,0,9e-06,1.103,Flow IAT Max
+171,BENIGN,0,6e-06,0.996,act_data_pkt_fwd
+172,BENIGN,0,5e-06,0.988,Flow IAT Max
+173,BENIGN,0,5e-06,1.352,Flow IAT Max
+174,BENIGN,0,5e-06,1.783,Flow IAT Max
+175,BENIGN,0,7e-06,0.991,Flow IAT Max
+176,BENIGN,0,6e-06,0.925,min_seg_size_forward
+177,BENIGN,0,6e-06,0.905,Flow IAT Max
+178,BENIGN,0,4.9e-05,0.867,act_data_pkt_fwd
+179,BENIGN,0,9e-06,0.847,Flow IAT Max
+180,BENIGN,0,8e-06,0.891,Flow IAT Max
+181,BENIGN,0,1e-05,1.105,Flow IAT Max
+182,BENIGN,0,7e-05,1.116,act_data_pkt_fwd
+183,BENIGN,0,6.4e-05,0.911,act_data_pkt_fwd
+184,BENIGN,0,5.6e-05,0.873,Flow IAT Max
+185,BENIGN,0,3.8e-05,0.869,Flow IAT Max
+186,BENIGN,0,3.8e-05,0.969,Flow IAT Max
+187,BENIGN,0,0.001208,0.755,act_data_pkt_fwd
+188,BENIGN,0,1e-05,0.89,Flow IAT Max
+189,BENIGN,0,1e-05,1.033,Flow IAT Max
+190,BENIGN,0,0.000475,1.196,act_data_pkt_fwd
+191,BENIGN,0,0.005842,2.594,Bwd Header Length
+192,BENIGN,0,1e-05,1.004,Flow IAT Max
+193,BENIGN,0,0.0001,0.958,Flow IAT Max
+194,BENIGN,0,0.005842,0.812,Bwd Header Length
+195,BENIGN,0,9e-06,0.806,Flow IAT Max
+196,BENIGN,0,3.8e-05,0.801,Flow IAT Max
+197,BENIGN,0,4.4e-05,1.084,act_data_pkt_fwd
+198,BENIGN,0,0.009799,1.405,act_data_pkt_fwd
+199,BENIGN,0,0.0001,2.176,Flow IAT Max
+200,BENIGN,0,5e-06,0.926,Flow IAT Max
+201,BENIGN,0,3.8e-05,0.834,Flow IAT Max
+202,BENIGN,0,4.9e-05,0.833,act_data_pkt_fwd
+203,BENIGN,0,4.9e-05,0.815,act_data_pkt_fwd
+204,BENIGN,0,9e-06,0.914,Flow IAT Max
+205,BENIGN,0,1e-05,1.035,Flow IAT Max
+206,BENIGN,0,1e-05,1.29,Flow IAT Max
+207,BENIGN,0,0.009799,2.405,act_data_pkt_fwd
+208,BENIGN,0,9e-06,0.984,Flow IAT Max
+209,BENIGN,0,1e-05,0.982,Flow IAT Max
+210,BENIGN,0,1e-05,0.943,Flow IAT Max
+211,BENIGN,0,7e-06,0.895,Flow IAT Max
+212,BENIGN,0,0.005842,0.82,Bwd Header Length
+213,BENIGN,0,3.4e-05,0.937,Flow IAT Max
+214,BENIGN,0,0.005842,1.241,Bwd Header Length
+215,BENIGN,0,7e-06,1.615,Flow IAT Max
+216,BENIGN,0,0.029569,0.972,min_seg_size_forward
+217,BENIGN,0,0.005842,0.846,Bwd Header Length
+218,BENIGN,0,2.6e-05,0.851,Flow IAT Max
+219,BENIGN,0,3.4e-05,0.788,act_data_pkt_fwd
+220,BENIGN,0,2.6e-05,0.812,Flow IAT Max
+221,BENIGN,0,0.005842,0.815,Bwd Header Length
+222,BENIGN,0,0.005842,0.969,Bwd Header Length
+223,BENIGN,0,0.052567,1.25,act_data_pkt_fwd
+224,BENIGN,0,0.000126,1.094,Bwd Packet Length Min
+225,BENIGN,0,6e-06,0.832,Flow IAT Max
+226,BENIGN,0,0.029569,0.891,min_seg_size_forward
+227,BENIGN,0,7e-06,0.926,act_data_pkt_fwd
+228,BENIGN,0,7e-06,0.814,act_data_pkt_fwd
+229,BENIGN,0,6e-06,0.96,act_data_pkt_fwd
+230,BENIGN,0,8.5e-05,1.466,act_data_pkt_fwd
+231,BENIGN,0,3.6e-05,0.928,act_data_pkt_fwd
+232,BENIGN,0,6e-06,0.805,act_data_pkt_fwd
+233,BENIGN,0,7.9e-05,0.847,Flow IAT Max
+234,BENIGN,0,0.000158,0.847,act_data_pkt_fwd
+235,BENIGN,0,0.005879,0.82,Bwd Packet Length Min
+236,BENIGN,0,5e-05,0.846,Flow IAT Max
+237,BENIGN,0,5.4e-05,0.996,Flow IAT Max
+238,BENIGN,0,7e-06,1.274,act_data_pkt_fwd
+239,BENIGN,0,0.005842,1.651,Bwd Header Length
+240,BENIGN,0,0.000639,0.864,Bwd Packet Length Min
+241,BENIGN,0,0.000639,0.758,Bwd Packet Length Min
+242,BENIGN,0,0.005842,0.831,Bwd Header Length
+243,BENIGN,0,0.008651,0.775,Flow IAT Max
+244,BENIGN,0,0.029569,0.891,min_seg_size_forward
+245,BENIGN,0,6e-06,1.04,Flow IAT Max
+246,BENIGN,0,0.005842,1.246,Bwd Header Length
+247,BENIGN,0,0.000797,1.721,min_seg_size_forward
+248,BENIGN,0,5e-06,0.865,Flow IAT Max
+249,BENIGN,0,8.2e-05,0.796,act_data_pkt_fwd
+250,BENIGN,0,6e-06,0.801,Flow IAT Max
+251,BENIGN,0,6e-06,0.815,act_data_pkt_fwd
+252,BENIGN,0,7.9e-05,0.879,Flow IAT Max
+253,BENIGN,0,0.000282,0.933,Bwd Packet Length Min
+254,BENIGN,0,0.022516,2.208,Bwd Header Length
+255,BENIGN,0,6e-06,1.665,act_data_pkt_fwd
+256,BENIGN,0,0.00042,1.016,Flow IAT Max
+257,BENIGN,0,0.000639,0.832,Bwd Packet Length Min
+258,BENIGN,0,0.044464,0.805,Init_Win_bytes_backward
+259,BENIGN,0,0.005842,0.786,Bwd Header Length
+260,BENIGN,0,0.008651,0.811,Flow IAT Max
+261,BENIGN,0,0.005842,0.918,Bwd Header Length
+262,BENIGN,0,3.6e-05,1.123,Flow IAT Max
+263,BENIGN,0,0.000639,1.429,Bwd Packet Length Min
+264,BENIGN,0,0.000639,0.954,Bwd Packet Length Min
+265,BENIGN,0,0.005879,0.808,Bwd Packet Length Min
+266,BENIGN,0,7e-06,0.891,act_data_pkt_fwd
+267,BENIGN,0,6e-06,0.806,act_data_pkt_fwd
+268,BENIGN,0,0.005879,0.786,Bwd Packet Length Min
+269,BENIGN,0,7e-06,0.889,act_data_pkt_fwd
+270,BENIGN,0,0.000639,1.229,Bwd Packet Length Min
+271,BENIGN,0,0.001183,1.509,min_seg_size_forward
+272,BENIGN,0,0.005842,1.519,Bwd Header Length
+273,BENIGN,0,0.000938,0.817,Bwd Packet Length Min
+274,BENIGN,0,0.000938,0.745,Bwd Packet Length Min
+275,BENIGN,0,0.005842,0.832,Bwd Header Length
+276,BENIGN,0,0.000282,0.755,Bwd Packet Length Min
+277,BENIGN,0,0.005879,0.782,Bwd Packet Length Min
+278,BENIGN,0,7e-06,0.958,act_data_pkt_fwd
+279,BENIGN,0,8e-06,1.279,Flow IAT Max
+280,BENIGN,0,6.3e-05,1.736,act_data_pkt_fwd
+281,BENIGN,0,8e-06,0.858,Flow IAT Max
+282,BENIGN,0,6e-06,0.799,act_data_pkt_fwd
+283,BENIGN,0,0.005879,0.826,Bwd Packet Length Min
+284,BENIGN,0,0.000639,0.851,Bwd Packet Length Min
+285,BENIGN,0,0.005842,0.817,Bwd Header Length
+286,BENIGN,0,0.005842,0.972,Bwd Header Length
+287,BENIGN,0,3.6e-05,1.35,act_data_pkt_fwd
+288,BENIGN,0,0.027683,1.554,Bwd Header Length
+289,BENIGN,0,0.000639,0.879,Bwd Packet Length Min
+290,BENIGN,0,0.005879,0.853,Bwd Packet Length Min
+291,BENIGN,0,0.005879,0.843,Bwd Packet Length Min
+292,BENIGN,0,7e-06,0.746,act_data_pkt_fwd
+293,BENIGN,0,0.000282,0.708,Bwd Packet Length Min
+294,BENIGN,0,8e-06,0.865,Flow IAT Max
+295,BENIGN,0,5.5e-05,1.157,Flow IAT Max
+296,BENIGN,0,0.000639,1.478,Bwd Packet Length Min
+297,BENIGN,0,0.00042,1.182,Flow IAT Max
+298,BENIGN,0,0.005879,0.847,Bwd Packet Length Min
+299,BENIGN,0,0.005842,0.808,Bwd Header Length
+300,BENIGN,0,3.6e-05,0.82,act_data_pkt_fwd
+301,BENIGN,0,2.6e-05,0.812,Flow IAT Max
+302,BENIGN,0,0.000639,0.852,Bwd Packet Length Min
+303,BENIGN,0,0.00042,1.029,Flow IAT Max
+304,BENIGN,0,6e-06,1.329,act_data_pkt_fwd
+305,BENIGN,0,0.005879,1.752,Bwd Packet Length Min
+306,BENIGN,0,0.000639,0.826,Bwd Packet Length Min
+307,BENIGN,0,6e-06,0.87,Flow IAT Max
+308,BENIGN,0,0.008651,0.778,Flow IAT Max
+309,BENIGN,0,0.00042,0.795,Flow IAT Max
+310,BENIGN,0,0.000639,0.799,Bwd Packet Length Min
+311,BENIGN,0,6e-06,1.04,Flow IAT Max
+312,BENIGN,0,3e-06,1.391,Flow IAT Max
+313,BENIGN,0,0.000639,2.203,Bwd Packet Length Min
+314,BENIGN,0,6e-06,0.824,act_data_pkt_fwd
+315,BENIGN,0,0.27368,0.803,min_seg_size_forward
+316,BENIGN,0,7e-06,0.782,min_seg_size_forward
+317,BENIGN,0,6e-06,0.783,Flow IAT Max
+318,BENIGN,0,7e-06,0.751,act_data_pkt_fwd
+319,BENIGN,0,0.000489,0.966,Total Length of Fwd Packets
+320,BENIGN,0,0.000639,1.357,Bwd Packet Length Min
+321,BENIGN,0,0.025888,2.105,Bwd Header Length
+322,BENIGN,0,0.005879,0.886,Bwd Packet Length Min
+323,BENIGN,0,0.0004,0.788,PSH Flag Count
+324,BENIGN,0,0.000639,0.819,Bwd Packet Length Min
+325,BENIGN,0,0.001183,0.776,min_seg_size_forward
+326,BENIGN,0,0.005842,0.773,Bwd Header Length
+327,BENIGN,0,0.005842,0.905,Bwd Header Length
+328,BENIGN,0,0.001911,1.254,Bwd Packet Length Min
+329,BENIGN,0,5.6e-05,1.482,Flow IAT Max
+330,BENIGN,0,7e-06,0.943,act_data_pkt_fwd
+331,BENIGN,0,7e-06,0.802,act_data_pkt_fwd
+332,BENIGN,0,0.000639,0.817,Bwd Packet Length Min
+333,BENIGN,0,8e-06,0.792,Flow IAT Max
+334,BENIGN,0,0.002063,0.782,Flow IAT Max
+335,BENIGN,0,0.000639,0.867,Bwd Packet Length Min
+336,BENIGN,0,6e-06,1.065,act_data_pkt_fwd
+337,BENIGN,0,7.9e-05,1.559,Flow IAT Max
+338,BENIGN,0,6.2e-05,1.508,Flow IAT Max
+339,BENIGN,0,4e-06,0.895,Flow IAT Max
+340,BENIGN,0,6e-06,0.803,act_data_pkt_fwd
+341,BENIGN,0,0.000938,0.8,Bwd Packet Length Min
+342,BENIGN,0,0.000938,0.764,Bwd Packet Length Min
+343,BENIGN,0,0.000938,0.812,Bwd Packet Length Min
+344,BENIGN,0,0.000938,1.164,Bwd Packet Length Min
+345,BENIGN,0,0.27368,1.391,min_seg_size_forward
+346,BENIGN,0,0.005879,2.106,Bwd Packet Length Min
+347,BENIGN,0,0.005879,1.25,Bwd Packet Length Min
+348,BENIGN,0,3.6e-05,1.003,Flow IAT Max
+349,BENIGN,0,0.000639,0.859,Bwd Packet Length Min
+350,BENIGN,0,7e-06,0.777,act_data_pkt_fwd
+351,BENIGN,0,7e-06,0.86,act_data_pkt_fwd
+352,BENIGN,0,0.000639,0.959,Bwd Packet Length Min
+353,BENIGN,0,0.000639,1.333,Bwd Packet Length Min
+354,BENIGN,0,0.00042,1.97,Flow IAT Max
+355,BENIGN,0,7e-06,0.842,act_data_pkt_fwd
+356,BENIGN,0,6e-06,0.838,Flow IAT Max
+357,BENIGN,0,0.029569,0.824,min_seg_size_forward
+358,BENIGN,0,2.6e-05,0.789,Flow IAT Max
+359,BENIGN,0,0.000489,0.771,Total Length of Fwd Packets
+360,BENIGN,0,6e-06,1.081,Flow IAT Max
+361,BENIGN,0,0.005842,1.302,Bwd Header Length
+362,BENIGN,0,0.005842,2.195,Bwd Header Length
+363,BENIGN,0,6e-06,0.952,Flow IAT Max
+364,BENIGN,0,0.001915,0.858,Flow IAT Max
+365,BENIGN,0,0.029569,0.787,min_seg_size_forward
+366,BENIGN,0,0.029569,0.821,min_seg_size_forward
+367,BENIGN,0,0.005842,0.825,Bwd Header Length
+368,BENIGN,0,0.029569,1.137,min_seg_size_forward
+369,BENIGN,0,0.005842,1.324,Bwd Header Length
+370,BENIGN,0,0.000639,1.694,Bwd Packet Length Min
+371,BENIGN,0,2.6e-05,0.86,Flow IAT Max
+372,BENIGN,0,3.4e-05,0.8,act_data_pkt_fwd
+373,BENIGN,0,7e-06,0.817,act_data_pkt_fwd
+374,BENIGN,0,7.9e-05,0.807,Flow IAT Max
+375,BENIGN,0,0.005842,0.788,Bwd Header Length
+376,BENIGN,0,2.6e-05,0.938,act_data_pkt_fwd
+377,BENIGN,0,0.230922,1.269,min_seg_size_forward
+378,BENIGN,0,0.029569,1.438,min_seg_size_forward
+379,BENIGN,0,0.005879,1.473,Bwd Packet Length Min
+380,BENIGN,0,7e-06,0.896,act_data_pkt_fwd
+381,BENIGN,0,0.000938,0.944,Bwd Packet Length Min
+382,BENIGN,0,0.000286,0.844,act_data_pkt_fwd
+383,BENIGN,0,0.001915,0.831,Flow IAT Max
+384,BENIGN,0,5e-06,1.015,Flow IAT Max
+385,BENIGN,0,0.029569,1.172,min_seg_size_forward
+386,BENIGN,0,6e-06,1.585,Flow IAT Max
+387,BENIGN,0,6e-06,1.759,Flow IAT Max
+388,BENIGN,0,0.005879,0.846,Bwd Packet Length Min
+389,BENIGN,0,6e-06,0.938,Flow IAT Max
+390,BENIGN,0,0.002063,0.863,Flow IAT Max
+391,BENIGN,0,3.4e-05,0.841,act_data_pkt_fwd
+392,BENIGN,0,7e-06,0.791,act_data_pkt_fwd
+393,BENIGN,0,0.000639,1.04,Bwd Packet Length Min
+394,BENIGN,0,7e-06,1.198,act_data_pkt_fwd
+395,BENIGN,0,0.002063,2.044,Flow IAT Max
+396,BENIGN,0,6e-06,0.883,act_data_pkt_fwd
+397,BENIGN,0,0.000753,0.821,Bwd Packet Length Min
+398,BENIGN,0,7e-06,0.846,act_data_pkt_fwd
+399,BENIGN,0,0.000639,0.813,Bwd Packet Length Min
+400,BENIGN,0,7e-06,0.769,act_data_pkt_fwd
+401,BENIGN,0,0.000639,0.898,Bwd Packet Length Min
+402,BENIGN,0,2.3e-05,1.123,act_data_pkt_fwd
+403,BENIGN,0,0.000639,1.596,Bwd Packet Length Min
+404,BENIGN,0,6e-06,1.661,act_data_pkt_fwd
+405,BENIGN,0,9.1e-05,0.9,act_data_pkt_fwd
+406,BENIGN,0,6e-06,0.828,Flow IAT Max
+407,BENIGN,0,0.005842,0.797,Bwd Header Length
+408,BENIGN,0,0.005842,0.828,Bwd Header Length
+409,BENIGN,0,7e-06,0.841,Flow IAT Max
+410,BENIGN,0,6.2e-05,1.214,Flow IAT Max
+411,BENIGN,0,4e-05,1.462,Flow IAT Max
+412,BENIGN,0,0.029569,2.273,min_seg_size_forward
