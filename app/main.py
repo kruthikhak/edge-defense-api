@@ -13,6 +13,7 @@ Environment variables (all optional, sensible defaults provided):
     SUPABASE_KEY          — Supabase anon/service key       (optional)
     CLERK_PUBLISHABLE_KEY — Clerk publishable key           (optional)
 """
+#main
 
 import os
 import time
